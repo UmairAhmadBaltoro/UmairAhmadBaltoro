@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Umair Bin Ahmad!
 
-![Profile Views](https://komarev.com/ghpvc/?username=UmairBinAhmad&style=flat-square&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=UmairAhmadBaltoro&style=flat-square&color=blueviolet)
 ![Pro Level](https://img.shields.io/badge/Pro--Level-Blue?style=flat-square&color=success)
 
 ---
@@ -35,8 +35,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmairBinAhmad&theme=blue-green&show_icons=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmairBinAhmad&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UmairAhmadBaltoro&theme=blue-green&show_icons=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmairAhmadBaltoro&layout=compact&theme=radical" width="40%" />
 </div>
 
 ---
